@@ -1,3 +1,6 @@
+## Power BI Workspace Link
+live Power BI report is available in workspace:
+https://app.powerbi.com/view?r=eyJrIjoiZjI0ODZmYWEtZWYwZS00NTYyLTkzMDUtMzM2ZTViMzQ0ZWIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 # HR Diversity & Inclusion Analysis (Power BI)
 
 ## Project Overview
